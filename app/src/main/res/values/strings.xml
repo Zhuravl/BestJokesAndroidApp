@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Best Jokes</string>
+    <string name="action_settings">Settings</string>
+    <!--<string name="baseUrl">http://192.168.23.13:8080/BestJokesServer-1.0-SNAPSHOT/</string>-->
+    <!--<string name="addUri">addMsg</string>-->
+    <!--<string name="getUri">getAllMsgs</string>-->
+</resources>
